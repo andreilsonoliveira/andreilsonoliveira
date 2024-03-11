@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @andreilsonoliveira
-- 👀 I’m interested in PROGAMAÇÃO
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Olá, sou @andreilsonoliveira
+👀 Tenho interesse em PROGAMAÇÃO
+🌱 Atualmente estou aprendendo FRONT-END
+📫 Como entrar em contato comigo andreilsonoliveira0211@gmail.com
+😄 Pronomes: Andre
+
 
 <!---
 andreilsonoliveira/andreilsonoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
